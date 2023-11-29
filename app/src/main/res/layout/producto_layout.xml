@@ -26,32 +26,32 @@
             android:id="@+id/nombreProductoTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="Aquí va el nombre"
             android:padding="5dp"
-            android:text="Aquí va el nombre"
             android:textSize="24sp" />
 
         <TextView
             android:id="@+id/plataformaProductoTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="Aquí va la plataforma"
             android:padding="5dp"
-            android:text="Aquí va la plataforma"
             android:textSize="24sp" />
 
         <TextView
             android:id="@+id/generoProductoTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="Aquí va el género"
             android:padding="5dp"
-            android:text="Aquí va el género"
             android:textSize="24sp" />
 
         <TextView
             android:id="@+id/precioProductoTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="Aquí va el precio"
             android:padding="5dp"
-            android:text="Aquí va el precio"
             android:textSize="24sp" />
     </LinearLayout>
 

@@ -13,9 +13,6 @@
         android:theme="@style/Theme.Promul_trabajo_final_trimestre"
         tools:targetApi="31">
         <activity
-            android:name=".recyclerview.CatalogoActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

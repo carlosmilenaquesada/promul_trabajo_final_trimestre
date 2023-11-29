@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_pequenio">16dp</dimen>
+    <dimen name="margen_medio">32dp</dimen>
+    <dimen name="margen_grande">64dp</dimen>
+    <dimen name="margen_enorme">196dp</dimen>
+</resources>
