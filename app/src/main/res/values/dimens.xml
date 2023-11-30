@@ -4,4 +4,5 @@
     <dimen name="margen_medio">32dp</dimen>
     <dimen name="margen_grande">64dp</dimen>
     <dimen name="margen_enorme">196dp</dimen>
+    <dimen name="margen_muygrande">128dp</dimen>
 </resources>

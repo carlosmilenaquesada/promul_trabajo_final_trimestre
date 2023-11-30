@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lavanda_claro1">#FFF0E6FF</color>
+    <color name="lila_claro2">#FFD4BFFF</color>
+    <color name="morado_claro3">#FFA88AFF</color>
+    <color name="purpura_claro4">#FF7A51FF</color>
+    <color name="indigo_claro5">#FF5426FF</color>
 </resources>
